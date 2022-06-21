@@ -1,0 +1,89 @@
+{
+  "configs": {
+    "general_campanha_minDailyCreditValue": 5,
+    "general_campanha_minCreditValue": 30,
+    "general_payments_boleto_enabled": 1,
+    "general_payments_paypal_enabled": 1,
+    "general_payments_pix_enabled": 1
+  },
+  "cupons": [
+    {
+      "id": "1",
+      "cod_cupom": "Primeiro",
+      "tipo": "ANUNCIANTE",
+      "valor": "10000",
+      "valor_min": "40",
+      "cupom_publico": "sim",
+      "desc_cupom": "Cupom de Primeiro Anuncio"
+    },
+    {
+      "id": "2",
+      "cod_cupom": "Segundo",
+      "tipo": "PARCEIRO",
+      "valor": "20000",
+      "valor_min": "40",
+      "cupom_publico": "sim",
+      "desc_cupom": "Cupom de Segundo Anuncio"
+    }
+  ],
+  "segmentos": [
+    {
+      "title": "Tecnologia",
+      "icon": "DatabaseIcon"
+    },
+    {
+      "title": "Programação",
+      "icon": "CodepenIcon"
+    },
+    {
+      "title": "DevOps",
+      "icon": "ApertureIcon"
+    },
+    {
+      "title": "Cibersegurança",
+      "icon": "CommandIcon"
+    }
+  ],
+  "sites": [
+    {
+      "title": "Upee"
+    },
+    {
+      "title": "HostHP"
+    }
+  ],
+  "campanhas": [
+    {
+      "anuncio_tipo": "sdasd",
+      "anuncio_link": "sadasd",
+      "id": 1
+    },
+    {
+      "anuncio_tipo": "2",
+      "anuncio_link": "https://asdasd",
+      "anuncio_titulo": "asdasd",
+      "anuncio_descricao": "",
+      "anuncio_titulo_square": "",
+      "anuncio_descricao_square": "",
+      "fileAnuncioHorizontal": {
+        "$path": ""
+      },
+      "fileAnuncioSquare": {
+        "$path": ""
+      },
+      "fileAnuncioVertical": {
+        "$path": ""
+      },
+      "valor_diario": 5,
+      "horario_inicial": "17:15",
+      "horario_final": "22:14",
+      "tipo_vinculacao": "0",
+      "sites": [],
+      "segmentos": [],
+      "cupom": "",
+      "valor": 30,
+      "forma_pagamento": "1",
+      "id": 2
+    }
+  ]
+}
