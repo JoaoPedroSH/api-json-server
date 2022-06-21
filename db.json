@@ -54,11 +54,6 @@
   ],
   "campanhas": [
     {
-      "anuncio_tipo": "sdasd",
-      "anuncio_link": "sadasd",
-      "id": 1
-    },
-    {
       "anuncio_tipo": "2",
       "anuncio_link": "https://asdasd",
       "anuncio_titulo": "asdasd",
