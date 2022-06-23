@@ -79,6 +79,109 @@
       "valor": 30,
       "forma_pagamento": "1",
       "id": 2
+    },
+    {
+      "anuncio_tipo": "1",
+      "anuncio_link": "",
+      "anuncio_titulo": "asdas",
+      "anuncio_descricao": "dasdas",
+      "anuncio_titulo_square": "",
+      "anuncio_descricao_square": "dasdas",
+      "fileAnuncioHorizontal": "",
+      "fileAnuncioSquare": "",
+      "fileAnuncioVertical": "",
+      "valor_diario": 5,
+      "horario_inicial": "",
+      "horario_final": "",
+      "tipo_vinculacao": "0",
+      "sites": [],
+      "segmentos": [],
+      "cupom": "Primeiro",
+      "valor": 30,
+      "forma_pagamento": "1",
+      "id": 3
+    },
+    {
+      "anuncio_tipo": "2",
+      "anuncio_link": "https://gdfgdfg",
+      "anuncio_titulo": "gdfgdf",
+      "anuncio_descricao": "",
+      "anuncio_titulo_square": "",
+      "anuncio_descricao_square": "",
+      "fileAnuncioHorizontal": {
+        "$path": ""
+      },
+      "fileAnuncioSquare": {
+        "$path": ""
+      },
+      "fileAnuncioVertical": {
+        "$path": ""
+      },
+      "valor_diario": 10,
+      "horario_inicial": "16:49",
+      "horario_final": "15:52",
+      "tipo_vinculacao": "1",
+      "sites": [
+        {
+          "title": "HostHP"
+        },
+        {
+          "title": "Upee"
+        }
+      ],
+      "segmentos": [],
+      "cupom": "Primeiro",
+      "valor": 30,
+      "forma_pagamento": "2",
+      "id": 4
+    },
+    {
+      "anuncio_tipo": "1",
+      "anuncio_link": "",
+      "anuncio_titulo": "asd",
+      "anuncio_descricao": "asdas",
+      "anuncio_titulo_square": "",
+      "anuncio_descricao_square": "dasd",
+      "fileAnuncioHorizontal": "",
+      "fileAnuncioSquare": "",
+      "fileAnuncioVertical": "",
+      "valor_diario": 5,
+      "horario_inicial": "",
+      "horario_final": "",
+      "tipo_vinculacao": "0",
+      "sites": [],
+      "segmentos": [],
+      "cupom": "",
+      "valor": 30,
+      "forma_pagamento": "1",
+      "id": 5
+    },
+    {
+      "anuncio_tipo": "2",
+      "anuncio_link": "https://rtyrtyrty",
+      "anuncio_titulo": "rtyrty",
+      "anuncio_descricao": "",
+      "anuncio_titulo_square": "",
+      "anuncio_descricao_square": "",
+      "fileAnuncioHorizontal": {
+        "$path": ""
+      },
+      "fileAnuncioSquare": {
+        "$path": ""
+      },
+      "fileAnuncioVertical": {
+        "$path": ""
+      },
+      "valor_diario": 5,
+      "horario_inicial": "",
+      "horario_final": "",
+      "tipo_vinculacao": "0",
+      "sites": [],
+      "segmentos": [],
+      "cupom": "",
+      "valor": 30,
+      "forma_pagamento": "1",
+      "id": 6
     }
   ]
 }
