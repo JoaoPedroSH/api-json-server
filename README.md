@@ -1,5 +1,8 @@
 # api-json-server
  
+## Dependences 
+### npm install -g json-server
+
 ### server start -> json-server --watch db.json
 ### port 3000
 
