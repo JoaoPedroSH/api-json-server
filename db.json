@@ -1,4 +1,5 @@
 {
+
   "configs": {
     "general_campanha_minDailyCreditValue": 5,
     "general_campanha_minCreditValue": 30,
@@ -6,6 +7,8 @@
     "general_payments_paypal_enabled": 1,
     "general_payments_pix_enabled": 1
   },
+
+
   "cupons": [
     {
       "id": "1",
@@ -26,6 +29,8 @@
       "desc_cupom": "Cupom de Segundo Anuncio"
     }
   ],
+
+
   "segmentos": [
     {
       "title": "Tecnologia",
@@ -44,6 +49,8 @@
       "icon": "CommandIcon"
     }
   ],
+
+
   "sites": [
     {
       "title": "Upee"
@@ -52,15 +59,19 @@
       "title": "HostHP"
     }
   ],
+
+
   "campanhas": [
   ],
+
+
   "visualizaCampanhas": [
     {
       "id": "0",
       "idcampanha": "01",
       "anuncio_tipo": "Texto",
       "anuncio_titulo": "Campanha em Aberto",
-      "anuncio_link": "www.upee0.com.br",
+      "anuncio_link": "https://upee0.com.br",
       "data_criacao": "30/06/2022",
       "status": "0"
     },
@@ -69,7 +80,7 @@
       "idcampanha": "02",
       "anuncio_tipo": "Imagem",
       "anuncio_titulo": "Campanha Pendente",
-      "anuncio_link": "www.upee1.com.br",
+      "anuncio_link": "https://upee1.com.br",
       "data_criacao": "31/06/2022",
       "status": "1"
     },
@@ -78,7 +89,7 @@
       "idcampanha": "03",
       "anuncio_tipo": "Texto",
       "anuncio_titulo": "Campanha em Análise",
-      "anuncio_link": "www.upee2.com.br",
+      "anuncio_link": "https://upee2.com.br",
       "data_criacao": "01/07/2022",
       "status": "2"
     },
@@ -87,7 +98,7 @@
       "idcampanha": "04",
       "anuncio_tipo": "Imagem",
       "anuncio_titulo": "Campanha Vinculade Online",
-      "anuncio_link": "www.upee3.com.br",
+      "anuncio_link": "https://upee3.com.br",
       "data_criacao": "02/07/2022",
       "status": "3"
     },
@@ -96,7 +107,7 @@
       "idcampanha": "05",
       "anuncio_tipo": "Texto",
       "anuncio_titulo": "Campanha Finalizada",
-      "anuncio_link": "www.upee4.com.br",
+      "anuncio_link": "https://upee4.com.br",
       "data_criacao": "03/07/2022",
       "status": "4"
     },
@@ -105,7 +116,7 @@
       "idcampanha": "06",
       "anuncio_tipo": "Imagem",
       "anuncio_titulo": "Campanha Não Aprovada",
-      "anuncio_link": "www.upee5.com.br",
+      "anuncio_link": "https://upee5.com.br",
       "data_criacao": "04/07/2022",
       "status": "5"
     },
@@ -114,7 +125,7 @@
       "idcampanha": "07",
       "anuncio_tipo": "Texto",
       "anuncio_titulo": "Campanha Desativada",
-      "anuncio_link": "www.upee6.com.br",
+      "anuncio_link": "https://upee6.com.br",
       "data_criacao": "05/07/2022",
       "status": "6"
     },
@@ -123,7 +134,7 @@
       "idcampanha": "08",
       "anuncio_tipo": "Imagem",
       "anuncio_titulo": "Campanha Pausada",
-      "anuncio_link": "www.upee7.com.br",
+      "anuncio_link": "https://upee7.com.br",
       "data_criacao": "06/07/2022",
       "status": "7"
     },{
@@ -131,7 +142,7 @@
       "idcampanha": "09",
       "anuncio_tipo": "Texto",
       "anuncio_titulo": "Campanha com Edição Aberta",
-      "anuncio_link": "www.upee8.com.br",
+      "anuncio_link": "https://upee8.com.br",
       "data_criacao": "07/07/2022",
       "status": "8"
     },
@@ -140,7 +151,7 @@
       "idcampanha": "010",
       "anuncio_tipo": "Imagem",
       "anuncio_titulo": "Campanha com Edição em Análise",
-      "anuncio_link": "www.upee9.com.br",
+      "anuncio_link": "https://upee9.com.br",
       "data_criacao": "08/07/2022",
       "status": "9"
     },
@@ -149,7 +160,7 @@
       "idcampanha": "011",
       "anuncio_tipo": "Texto",
       "anuncio_titulo": "Campanha com Edição Finalizada",
-      "anuncio_link": "www.upee10.com.br",
+      "anuncio_link": "https://upee10.com.br",
       "data_criacao": "09/07/2022",
       "status": "10"
     },
@@ -158,7 +169,7 @@
       "idcampanha": "012",
       "anuncio_tipo": "Imagem",
       "anuncio_titulo": "Campanha com Edição Rejeitada",
-      "anuncio_link": "www.upee11.com.br",
+      "anuncio_link": "https://upee11.com.br",
       "data_criacao": "10/07/2022",
       "status": "11"
     },
@@ -167,9 +178,44 @@
       "idcampanha": "013",
       "anuncio_tipo": "Texto",
       "anuncio_titulo": "Campanha Excluida",
-      "anuncio_link": "www.upee12.com.br",
+      "anuncio_link": "https://upee12.com.br",
       "data_criacao": "11/07/2022",
       "status": "99"
     }
+  ],
+
+
+  "visualizaCampanhasStatus": [
+    {
+      "id": "0",
+      "idcampanha": "00",
+      "anuncio_tipo": "Teste Filtro",
+      "anuncio_titulo": "Filtro por status funcionando",
+      "anuncio_link": "https://upee0.com.br",
+      "data_criacao": "01/01/2001",
+      "status": "0"
+    }
+  ],
+
+  "faturasCampanhas": [
+    {
+      "id": "0",
+      "idcampanha": "01",
+      "anuncio_titulo": "Fatura Teste Aberta",
+      "valor": "30,00",
+      "data_criacao": "30/06/2022",
+      "data_vencimento": "02/07/2022",
+      "status": "0"
+    },
+    {
+      "id": "01",
+      "idcampanha": "02",
+      "anuncio_titulo": "Fatura Teste Paga",
+      "valor": "50,00",
+      "data_criacao": "31/06/2022",
+      "data_vencimento": "03/07/2022",
+      "status": "1"
+    }
   ]
+
 }
