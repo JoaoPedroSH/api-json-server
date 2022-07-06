@@ -219,8 +219,22 @@
   ],
   "account-advertiser": {
     "id": "01",
+    "tipo": "ANUNCIANTE",
     "avatar": "8.png",
     "nome": "João Pedro",
-    "email": "joaopedro@gmail.com"
+    "pessoa": "PF",
+    "razao": "HostHP",
+    "cnpj_cpf": "05022147283",
+    "email": "joaopedropereiralima@gmail.com",
+    "telefone": "94992127899",
+    "uf": "PA",
+    "municipio": "Redenção",
+    "cep": "68551034",
+    "endereco": "Rua Treze",
+    "numero": "40",
+    "bairro": "Santos Dumont",
+    "complemento": "Casa com placa azul",
+    "senha": "232312jpls",
+    "nova_senha": ""
   }
 }
