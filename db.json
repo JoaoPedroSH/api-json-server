@@ -216,6 +216,11 @@
       "data_vencimento": "03/07/2022",
       "status": "1"
     }
-  ]
-
+  ],
+  "account-advertiser": {
+    "id": "01",
+    "avatar": "8.png",
+    "nome": "João Pedro",
+    "email": "joaopedro@gmail.com"
+  }
 }
