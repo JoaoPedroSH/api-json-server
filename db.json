@@ -8,7 +8,6 @@
     "general_payments_pix_enabled": 1
   },
 
-
   "cupons": [
     {
       "id": "1",
@@ -30,7 +29,6 @@
     }
   ],
 
-
   "segmentos": [
     {
       "title": "Tecnologia",
@@ -50,7 +48,6 @@
     }
   ],
 
-
   "sites": [
     {
       "title": "Upee"
@@ -60,10 +57,8 @@
     }
   ],
 
-
   "campanhas": [
   ],
-
 
   "visualizaCampanhas": [
     {
@@ -184,7 +179,6 @@
     }
   ],
 
-
   "visualizaCampanhasStatus": [
     {
       "id": "0",
@@ -217,6 +211,7 @@
       "status": "1"
     }
   ],
+
   "account-advertiser": {
     "id": "01",
     "tipo": "ANUNCIANTE",
@@ -237,4 +232,5 @@
     "senha": "232312jpls",
     "nova_senha": ""
   }
+  
 }
