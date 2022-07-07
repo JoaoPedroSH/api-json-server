@@ -1,5 +1,4 @@
 {
-
   "configs": {
     "general_campanha_minDailyCreditValue": 5,
     "general_campanha_minCreditValue": 30,
@@ -7,7 +6,6 @@
     "general_payments_paypal_enabled": 1,
     "general_payments_pix_enabled": 1
   },
-
   "cupons": [
     {
       "id": "1",
@@ -28,7 +26,6 @@
       "desc_cupom": "Cupom de Segundo Anuncio"
     }
   ],
-
   "segmentos": [
     {
       "title": "Tecnologia",
@@ -47,7 +44,6 @@
       "icon": "CommandIcon"
     }
   ],
-
   "sites": [
     {
       "title": "Upee"
@@ -56,10 +52,7 @@
       "title": "HostHP"
     }
   ],
-
-  "campanhas": [
-  ],
-
+  "campanhas": [],
   "visualizaCampanhas": [
     {
       "id": "0",
@@ -132,7 +125,8 @@
       "anuncio_link": "https://upee7.com.br",
       "data_criacao": "06/07/2022",
       "status": "7"
-    },{
+    },
+    {
       "id": "8",
       "idcampanha": "09",
       "anuncio_tipo": "Texto",
@@ -178,7 +172,6 @@
       "status": "99"
     }
   ],
-
   "visualizaCampanhasStatus": [
     {
       "id": "0",
@@ -190,7 +183,6 @@
       "status": "0"
     }
   ],
-
   "faturasCampanhas": [
     {
       "id": "0",
@@ -211,26 +203,20 @@
       "status": "1"
     }
   ],
-
   "account-advertiser": {
-    "id": "01",
-    "tipo": "ANUNCIANTE",
+    "id": "1",
     "avatar": "8.png",
-    "nome": "João Pedro",
-    "pessoa": "PF",
-    "razao": "HostHP",
-    "cnpj_cpf": "05022147283",
+    "name": "João Pedro",
+    "tipo_pessoa": "PF",
+    "cpf_cnpj": "050.221.472-83",
+    "razao_social": "HostHP",
     "email": "joaopedropereiralima@gmail.com",
-    "telefone": "94992127899",
-    "uf": "PA",
-    "municipio": "Redenção",
-    "cep": "68551034",
-    "endereco": "Rua Treze",
-    "numero": "40",
-    "bairro": "Santos Dumont",
+    "telefone": "(94)99212-7899",
+    "cep": "65765-765",
+    "endereco_numero": "40",
     "complemento": "Casa com placa azul",
-    "senha": "232312jpls",
-    "nova_senha": ""
+    "password": "232312jpls",
+    "confirmPassword": "",
+    "tipo": "ANUNCIANTE"
   }
-  
 }
