@@ -218,5 +218,11 @@
     "password": "232312jpls",
     "confirmPassword": "",
     "tipo": "ANUNCIANTE"
+  },
+  "analytics":{
+    "campanhasAtivas": "22",
+    "cliques": "8452",
+    "views": "3713832",
+    "investimentoTotal": "6454"
   }
 }
